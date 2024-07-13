@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gangadhar2k4
 - 👀 I’m interested in 
-- 🌱 I’m currently working on my to improve skills on
+- 🌱 I’m currently working on my way to improve skills on
 - 1. Python: Problem Solving, Data Analysis, Mastering Data Structures
   2. Web Devlopement: HTML,CSS,JAVASCRIPT
 - 💞️ I’m looking to collaborate on Python based internship
