@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gangadhar2k4
-- 👀 I’m interested in real-time projects which based on python.
+- 👀 I’m interested in real-time projects which is based on python.
 - 🌱 I’m currently improving skills on | Python: Problem Solving, Data Analysis, Mastering Data Structures | Web Devlopement: HTML,CSS,JAVASCRIPT | SQL | 
 - 💞️ I’m looking to collaborate on Python based internships on online platform
-- 📫 How to reach me Social Media links Below 👇:
+- 📫 How to reach me on Social Media links Below 👇:
 -     👉 Linkdin: URL
 - ⚡ Fun fact: ...
 <!---
