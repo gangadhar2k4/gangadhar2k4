@@ -49,9 +49,10 @@
 ---
 
 ### 📈 What I’m Currently Improving
-- 🔹 Advanced Backend Architecture (FastAPI + Microservices)
-- 🔹 System Design & Scalability
-- 🔹 Data Analysis & Optimization Techniques
+- 🔹 Cloud & Deployment: AWS (EC2, S3, RDS) and Microsoft Azure
+- 🔹 Scalable Backend Systems using FastAPI & Microservices
+- 🔹 System Design (High-level & Low-level)
+- 🔹 Performance Optimization & Data Handling
 
 ---
 
