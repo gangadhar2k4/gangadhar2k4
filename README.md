@@ -31,6 +31,17 @@
 
 ---
 
+### 💼 Freelancing Experience
+
+#### 🚀 Tech Guidance Hub (Founder & Developer)
+- Built and managed a freelancing platform delivering **complete software solutions**  
+- Developed **scalable backend systems, full-stack applications, and API-based architectures**  
+- Delivered **production-ready projects, research papers, and technical documentation (LaTeX standard)**  
+- Worked with clients across **students, startups, and organizations**, ensuring end-to-end delivery  
+- Focused on **quality, performance, and real-world problem solving**
+
+---
+
 ### 🚀 Projects
 
 #### 💰 Personal Finance Management System
